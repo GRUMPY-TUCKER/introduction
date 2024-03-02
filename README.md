@@ -27,11 +27,11 @@
   
 ## Connect with me 🤝
   
-  <a href="mailto:sibu23122003@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://www.linkedin.com/in/surajit-maity23/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://github.com/Surajit0573" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+  <a href="mailto:rsadhukhan859@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/rupam-sadhukhan-7058b0240/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://github.com/GRUMPY-TUCKER" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
   <p align="center">
-<a href="https://www.codechef.com/users/surajit_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://surajit_23" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Surajit007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Surajit007" height="30" width="40" /></a>
-<a href="https://leetcode.com/sibu23122003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sibu23122003" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/grumpy_tucker3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"  height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Grumpy_Tucker3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Surajit007" height="30" width="40" /></a>
+<a href="https://leetcode.com/Grumpy_Tucker3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
 </p> 
