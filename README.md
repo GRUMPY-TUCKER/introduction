@@ -4,12 +4,11 @@
 
 
 ## Welcome to my profile 💻
-- 🌐 I’m currently pursuing **B.Tech in Information Technology**.
-- ✨ I have a good knowledge about JAVA and data structure and algorithms.
+- 🌐 I’m currently pursuing **B.Tech in Computer Science and Engineering**.
+- ✨ I have a good knowledge about JAVA,C++ and data structure and algorithms.
 - 💞️ I’m interested in Competitive coding & Open source contributions.
-- 🌱 I’m currently learning Web Development.
+- 🌱 A student of **Jalpaiguri Government Engineering College,West Bengal**.
 - 👀 I aspire to become a Software Engineer, contributing to innovative projects and continuously expanding my technical skills.
-- ⚡ Fun fact : When I am not working I enjoy playing chess as a means to sharpen my strategic thinking and problem-solving abilities.
 - 📫 How to reach me **sibu23122003@gmail.com**
 
 
