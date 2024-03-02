@@ -9,7 +9,7 @@
 - 💞️ I’m interested in Competitive coding & Open source contributions.
 - 🌱 A student of **Jalpaiguri Government Engineering College,West Bengal**.
 - 👀 I aspire to become a Software Engineer, contributing to innovative projects and continuously expanding my technical skills.
-- 📫 How to reach me **sibu23122003@gmail.com**
+- 📫 How to reach me **rsadhukhan859@gmail.com**
 
 
 ### Mostly Work With ⚡
