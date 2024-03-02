@@ -1,6 +1,6 @@
 # introduction
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=blue&width=900&lines=I+am+Rupam+Sadhukhan.;Currently+started+learning+Data+Structures+and+Algorithms.;Proficient+in+%C++%+and+Java.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=blue&width=900&lines=I+am+Rupam+Sadhukhan.;Currently+started+learning+Data+Structures+and+Algorithms.;Proficient+in+C+++and+Java.)](https://git.io/typing-svg)
 
 
 ## Welcome to my profile 💻
